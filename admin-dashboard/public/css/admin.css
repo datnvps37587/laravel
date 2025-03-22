@@ -1,0 +1,25 @@
+.admin-menu {
+    width: 250px;
+    min-height: 100vh;
+    background: #343a40;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.admin-menu a {
+    color: white;
+    text-decoration: none;
+}
+.admin-menu a:hover {
+    background: #495057;
+    border-radius: 5px;
+}
+.navbar-logo img {
+    width: 100px;
+}
+main {
+    margin-left: 250px;
+    padding: 20px;
+}
